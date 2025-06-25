@@ -7,12 +7,12 @@ How to Contact MyHeritage?: A Complete Guide
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: contact.png
+.. image:: contact1.png
    :alt: My Project Logo
    :width: 400px
    :align: center
    :target: https://getchatsupport.live/
-__________
+_____
 
 When you're diving into the fascinating world of family history, DNA testing, and genealogy research, few tools are as helpful as MyHeritage. Whether you're exploring your ancestry, connecting with long-lost relatives, or building a family tree, MyHeritage offers powerful features to assist you on your journey. But sometimes, you may hit a roadblock or have questions that require personal assistance. That’s when you might wonder: how to contact MyHeritage?
 
